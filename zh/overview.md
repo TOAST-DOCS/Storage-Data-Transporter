@@ -18,7 +18,7 @@ Service target
 
 ## Service process procedure
 
-![Service Process Procedure](http://static.toastoven.net/prod_datatransporter/data-transporter-process.png)
+![Service Process Procedure](http://static.toastoven.net/prod_datatransporter/data-transporter-process-en.png)
 
 ### 1. Sign up for service
 
