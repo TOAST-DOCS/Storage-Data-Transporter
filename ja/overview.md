@@ -18,7 +18,7 @@
 
 ## サービス処理手順
 
-![サービス処理手順](http://static.toastoven.net/prod_datatransporter/data-transporter-process.png)
+![サービス処理手順](http://static.toastoven.net/prod_datatransporter/data-transporter-process-ja.png)
 
 ### 1. サービス利用申請
 
