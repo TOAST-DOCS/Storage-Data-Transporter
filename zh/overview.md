@@ -1,19 +1,19 @@
 ## Storage > Data Transporter > Overview
 
-Supports a variety of ways to safely migrate client data to an external cloud or to safely migrate the data from external cloud to TOAST.
+Supports a variety of ways to safely migrate client data to an external cloud or to safely migrate the data from external cloud to NHN Cloud.
 
 Key features
 
 * Provides custom migration modes that fit the environment of clients.
 * Data can be safely migrated to an external cloud.
-* The data can be TOAST migrated from an external cloud to TOAST (to be supported later).
+* The data can be NHN Cloud migrated from an external cloud to NHN Cloud (to be supported later).
 * Data can be safely migrated using networks and mobile mass storage devices (currently supports only networks).
 * When necessary, data can be migrated with the technical support of NHN's cloud (Separate fee is charged).
 
 Service target
 
-* To switch from TOAST to an external cloud service
-* To switch from an external cloud service to TOAST (will be supported in the future)
+* To switch from NHN Cloud to an external cloud service
+* To switch from an external cloud service to NHN Cloud (will be supported in the future)
 * To safely migrate large data
 
 ## Service process procedure
